@@ -1,0 +1,89 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+
+h4{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+button{
+    padding: 6%;
+}
+
+/*First Section*/
+#firstsce{
+    background: url(images/firstsecBg.jpg);
+}
+
+.firstImg{
+    height: 500px;
+}
+
+.mainInfo{
+    padding: 10% 5%;
+}
+
+/*Second Section*/
+#secondsec{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #ffffff;
+}
+.aboutUs{
+    padding-top: 20%;
+    padding-left: 5%; 
+}
+
+.secondImg{
+    width: 100%;
+}
+
+/*Third Section*/
+#thirdsec{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    justify-content: center;
+}
+
+.thirdsecImg{
+    width: 100%;
+}
+
+/*Fourth Section*/
+
+#forthsec{
+    padding: 5% 5%;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.forthText{
+    text-align: center;
+}
+
+.icon{
+    padding: 2%;
+}
+
+.workImg{
+    width: 100%;
+    
+}
+
+/*Fifth Section*/
+#fifthsec{
+    text-align: center;
+    padding-top: 5%;
+}
+
+#works{
+    align-items: center;
+}
+
+
+
